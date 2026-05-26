@@ -2,71 +2,124 @@
 
 **Founder · AI Builder · Software Systems Designer · Digital Operator**
 
-I build practical AI systems, internal tools, workflow automation, brand intelligence systems, crawler/search concepts, and custom software for modern businesses.
+I build practical AI systems, software prototypes, and business tools at the intersection of platform architecture, digital operations, brand systems, and applied AI.
 
-My work sits at the intersection of business operations, software development, design, automation, and applied AI. I focus on turning messy business problems into structured workflows, tools, prototypes, and human-reviewed systems that can move toward production.
+My current work is focused on turning real business problems into structured workflows, prototype applications, AI-assisted tools, evaluation systems, crawler/search intelligence, and production-minded software products.
 
----
+## Prototype Portfolio
 
-## Current Focus
+**Live prototype portfolio:**
+https://dev.ross-stretch.com/prototype-portfolio
 
-- Agentic AI workflows
-- Internal business tools and operating systems
-- AI-assisted brand, content, and business intelligence
-- Search, crawler, and SEO intelligence systems
-- Full-stack TypeScript, JavaScript, Python, and API development
-- Docker, AWS EC2, PostgreSQL, Linux, and deployment workflows
-- Human-in-the-loop AI evaluation, review, and governance
+This portfolio shows how I frame problems, build working systems, use AI as leverage, verify output, and think about trust, governance, and real-world adoption.
 
----
+## Current Build Focus
 
-## Featured Builds
+- Applied AI workflows and AI-assisted software systems
+- Prototype portfolios, product surfaces, and internal tools
+- Brand intelligence, business audit systems, and structured recommendations
+- Crawler/search intelligence and evidence-based AI inputs
+- Prompt/output testing, evaluation harnesses, and regression checks
+- Dockerized Next.js applications and controlled deployment workflows
+- Platform architecture for internal/admin and client-facing software
 
-| Project | Purpose | Status |
-|---|---|---|
-| **ross-stretch.com** | Personal brand, blog rebuild, CV, and portfolio platform | In development |
-| **AI Builder Portfolio** | Application-ready AI/software proof package | In development |
-| **Agency Ops Agent** | Agentic workflow prototype for intake, planning, and operations | In development |
-| **StretchBAS Lite** | AI-assisted brand audit and business positioning prototype | In development |
-| **StretchSearch Lite** | Crawler/search/SEO intelligence prototype | In development |
-| **AI Evaluation Harness** | Rubric-based AI output review and governance prototype | In development |
-| **Personal Agent Toolkit** | Reusable AI workflow skills, prompts, and utilities | In development |
+## Featured Work
 
----
+### ross-stretch.com Rebuild
 
-## Core Stack
+A custom rebuild of my personal site away from WordPress into a controlled Next.js, TypeScript, Docker, and NGINX-based portfolio and publishing system.
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · PHP · SQL |
-| **Frontend** | React · Next.js · CSS · Tailwind-style systems |
-| **Backend** | Node.js · Express · Laravel/PHP experience · API design |
-| **Data** | PostgreSQL · Supabase experience · structured JSON workflows |
-| **Infrastructure** | Docker · AWS EC2 · Linux · NGINX · GitHub · SSH |
-| **AI/Automation** | Prompt systems · AI workflows · evaluation rubrics · agentic process design · structured outputs |
+**Demonstrates:**
 
----
+- custom Next.js application structure;
+- Docker runtime;
+- NGINX and HTTPS routing;
+- markdown-backed publishing;
+- application-ready prototype portfolio;
+- controlled production cutover discipline;
+- runtime verification scripts.
 
-## What I Build
+Repository: `ross-stretch-com`
+Prototype: https://dev.ross-stretch.com/prototype-portfolio
 
-I am currently building a connected software and AI portfolio around:
+### StretchGPT / Foundry
 
-- business process automation
-- AI-assisted client operations
-- brand and SEO intelligence
-- crawler/search infrastructure
-- internal admin/workspace tools
-- learning systems
-- support systems
-- reusable AI workflow components
+Internal AI product architecture lane focused on practical AI systems, model/product direction, evaluation workflows, hybrid compute, and future client-facing AI tooling.
 
-The goal is not AI theatre. The goal is practical systems that improve real work.
+**Demonstrates:**
 
----
+- AI product strategy;
+- model-family planning;
+- worker-lane thinking;
+- evaluation and regression direction;
+- cloud/local GPU compute planning;
+- governance-minded AI architecture.
+
+### StretchBAS Lite
+
+AI-assisted brand audit and business analysis system concept designed to evaluate positioning, audience clarity, offer structure, messaging quality, and campaign readiness.
+
+**Demonstrates:**
+
+- structured business inputs;
+- AI-assisted analysis;
+- explainable recommendations;
+- human-reviewed workflow design;
+- productized consulting/tooling direction.
+
+### StretchSearch Lite
+
+Crawler/search intelligence product lane for authorized crawling, SEO extraction, page indexing, content mapping, entity signals, and AI-assisted summaries.
+
+**Demonstrates:**
+
+- crawler architecture;
+- search/index planning;
+- SEO evidence extraction;
+- AI input pipeline design;
+- web-intelligence product thinking.
+
+### AI Evaluation Harness
+
+Planned utility for testing prompts, model outputs, workflow behavior, extraction quality, and AI-assisted software changes.
+
+**Demonstrates:**
+
+- prompt/output comparison;
+- regression checks;
+- dataset fixtures;
+- model/workflow evaluation;
+- trust and governance before scale.
+
+## Technical Stack
+
+**Languages / Frameworks**
+TypeScript · JavaScript · Python · Node.js · Next.js · React · HTML · CSS · SQL · Rust exposure
+
+**Infrastructure / Runtime**
+Docker · Docker Compose · NGINX · Certbot · Linux · EC2 · Git · GitHub
+
+**AI / Systems**
+AI workflow architecture · prompt testing · output evaluation · knowledge ingestion · crawler concepts · model/product planning
+
+**Business / Creative**
+Brand strategy · positioning · content systems · SEO · digital marketing · web strategy · agency operations
+
+## Operating Style
+
+- Workflow-first thinking
+- Fast prototyping with verification
+- Clear documentation and commit discipline
+- Business, brand, and software fluency
+- Human-reviewed AI execution
+- Practical judgment around risk, trust, and rollout
+- Founder-level ownership in ambiguous build environments
 
 ## Links
 
-- **Personal site:** ross-stretch.com
-- **Development portfolio:** dev.ross-stretch.com
-- **Company:** stretchgroup.ca
-- **Email:** ross@stretchgroup.ca
+- Prototype Portfolio: https://dev.ross-stretch.com/prototype-portfolio
+- Project Portfolio: https://dev.ross-stretch.com/projects
+- AI Builder Portfolio: https://dev.ross-stretch.com/ai-builder
+- Website: https://dev.ross-stretch.com
+- LinkedIn: https://www.linkedin.com/in/ross-stretch/
+- Email: ross@stretchgroup.ca
